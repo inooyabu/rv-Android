@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">rv-Android</string>
+    <string name="app_name">Tourism</string>
+    <string name="tourism_name">Name</string>
+    <string name="address">Address</string>
+    <string name="username">Tenti Atika Putri</string>
+    <string name="email">tentiaap@gmail.com</string>
 </resources>
